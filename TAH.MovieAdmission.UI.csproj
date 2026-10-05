@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\800110449\OneDrive - Fox Valley Technical College\C But Sharper\Week %287%29\Demo\TAH.Week7Demo\frmMovieAdmission.cs" Link="frmMovieAdmission.cs" />
+  </ItemGroup>
+
+</Project>
